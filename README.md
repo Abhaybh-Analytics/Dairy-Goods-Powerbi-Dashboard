@@ -96,7 +96,7 @@ A custom tooltip page created to provide additional details and improve dashboar
 
 **Abhay B H**
 
-Aspiring Data Analyst | Power BI | SQL | Excel
+Aspiring Data Analyst | Power BI | DAX | Power Query
 
 - GitHub: [Abhaybh-Analytics](https://github.com/Abhaybh-Analytics)
 - LinkedIn: [Abhay B H](https://www.linkedin.com/in/abhay-b-h/)
